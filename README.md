@@ -1,6 +1,6 @@
 # Ressources Python pour SPC 2de
 
-Ces calepins ressource sont une combinaison des ressources de l'IGEN et de l'Academie de Paris. Les programmes Pyhton proposés sont richement commentés.
+Ces calepins ressource sont une combinaison des ressources de l'IGEN et de l'Academie de Paris. Un grand nombre de commentaires accompagne les programmes Python afin d'en faciliter la compréhension.
 
 ## 1. PROGRAMME
 Programme à consulter [ici](http://cache.media.eduscol.education.fr/file/Consultations2018-2019/79/0/PPL18_Physique-chimie_COM_2e_1024790.pdf).
